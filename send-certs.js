@@ -25,8 +25,6 @@ let fontSize = 80;
 
 const user = process.env.EMAIL;
 const pass = process.env.PASS
-// const user = "tech-community@ensia.edu.dz";
-// const pass = "uiat hfxr qmwi ynly";
 
 const transportConfig = {
   service: "Gmail",
